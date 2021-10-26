@@ -12,4 +12,3 @@ def minor_matrix(M, i, j):
   return m
 
 
-print(minor_matrix([[1,2,3],[4,5,6],[7,8,9]],2,0))
